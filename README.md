@@ -97,8 +97,8 @@
 </div>
 Email: sumaiya@triangletech.com.bd<br>
 Website: sumaiya-akter.com <br>
-LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
-Facebook: https://www.facebook.com/Engr.Saad.2/<br>
+LinkedIn: https://www.linkedin.com/in/dev-sumaiya/<br>
+Facebook: https://www.facebook.com/dev-sumaiya/<br>
 Company WEB: https://triangletech.com.bd/ <br>
 WhatsApp: +8801904654712<br>
 
